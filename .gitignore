@@ -1,0 +1,5 @@
+**/__pycache__/**
+.env
+*.pem
+.venv
+ai_user22_accessKeys*
